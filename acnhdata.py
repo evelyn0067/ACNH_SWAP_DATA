@@ -16,7 +16,7 @@ st.markdown(
 )
 st.subheader('Campagin Period')
 st.markdown(
-    '''10:00:00 on April 14, 2023 to 10:00:00 on April 30, 2023 (UTC)'''
+    '''10:00:00 on April 14, 2023 to 10:00:00 on April 20, 2023 (UTC)'''
 )
 
 def get_order_data():
